@@ -1,0 +1,10 @@
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\bin\Debug\Programming Exercise.exe.config
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\bin\Debug\Programming Exercise.exe
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\bin\Debug\Programming Exercise.pdb
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\obj\Debug\Programming Exercise.csproj.AssemblyReference.cache
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\obj\Debug\Programming Exercise.csproj.CoreCompileInputs.cache
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\obj\Debug\Programming Exercise.exe
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\obj\Debug\Programming Exercise.pdb
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\bin\Debug\Aspose.Cells.dll
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\bin\Debug\Aspose.Cells.xml
+C:\Users\ML20090197.WMX\Downloads\Programming Exercise\obj\Debug\Programming Exercise.csproj.CopyComplete
